@@ -5,7 +5,7 @@ var b = 30;
 
 if (a > b ) {
     console.log("a is greater than b")
-} else{
+} else {
     console.log("b is greater than a")
 }
 
@@ -14,7 +14,7 @@ if (a > b ) {
 
 var n = 20;
 
-if(n % 2 === 0) {
+if (n % 2 === 0) {
     console.log(n + ' is even Number')
 } else {
     console.log(n + ' is odd Number')

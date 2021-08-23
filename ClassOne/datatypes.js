@@ -70,7 +70,7 @@ console.log(x)
 
 
 //*******Hex & Oct*********/
-var hex = 0xff;
+var hex = 0xaa;
 var oct = 0756
 
 console.log(hex)

@@ -6,10 +6,10 @@ var n = 1
 
 while (n < 100) {
     console.log(n + ' Rayhan Abdullah')
-    n++ // jodi i++ na use kori tahole n 1 kore + hobe na..
+    n++
 } 
 
-// ********** Random number genaret*******//
+// ********** Random number generator *******//
 
 
 // 1 - 10 Er Moddhe Random number genaret koro. than jokhon random number
