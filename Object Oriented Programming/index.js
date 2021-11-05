@@ -3,11 +3,10 @@ var rect = {
     height: 50,
 
     draw: function() {
-        console.log('I am a rectangle');
         console.log('My width', this.width);
-        this.printPro()
+        this.print()
     },
-    printPro: function() {
+    print: function() {
         console.log('My height', this.height);
     }
 }

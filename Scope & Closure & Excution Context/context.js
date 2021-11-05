@@ -21,7 +21,7 @@ function d() {
 }
 
 a()
-console.log('i am golobal');
+console.log('i am global');
 
 
 // Execution of C function Context
